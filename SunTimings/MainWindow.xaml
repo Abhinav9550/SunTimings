@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SunTimings"
         mc:Ignorable="d" FontSize="25"
-        Title="MainWindow" Height="450" Width="800">
+        Title="SunTiming" Height="450" Width="800">
     <Grid Margin="2,0,-2,0">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width=" 50"/>
