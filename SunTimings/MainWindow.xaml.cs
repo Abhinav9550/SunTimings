@@ -14,7 +14,6 @@ namespace SunTimings
         {
             InitializeComponent();
         }
-
         private  void  SubmitButton_Click(object sender, RoutedEventArgs e)
         {
             try
